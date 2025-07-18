@@ -43,17 +43,6 @@
 
 ---
 
-## 🚀 Roadmap 2025
-1. ✅ Master **React.js** (State Management, Hooks, Context API)
-2. ✅ Learn **Next.js** for SSR and SSG apps
-3. ✅ Deep dive into **Spring Boot** for backend APIs
-4. ✅ Integrate **MongoDB + PostgreSQL** for data handling
-5. ✅ Build Full-Stack Projects
-6. ✅ Contribute to **Open Source**
-7. ✅ Apply for Internships in Tech Giants
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sarinah&show_icons=true&theme=radical" alt="sarinah github stats"/>
