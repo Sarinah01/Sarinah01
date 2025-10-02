@@ -36,19 +36,10 @@
 ---
 
 ## 📚 Currently Learning
-- ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | **React.js**
+- ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | **React.js** br
 - ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | **Next.js**
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | **Spring Boot (Advanced)**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | **MongoDB**
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarinah&show_icons=true&theme=radical" alt="sarinah github stats"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinah&theme=radical" alt="sarinah streak stats"/>
-</p>
 
 ---
 
